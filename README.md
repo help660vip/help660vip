@@ -1,35 +1,33 @@
-<h1 align="center">Hi there, I'm help660vip 👋</h1>
+# 你好，我是 help660
 
-<h3 align="center">喜欢瞎折腾的技术爱好者 / 准高三生</h3>
+一名喜欢折腾的学生开发者，平时用代码解决自己遇到的实际问题。
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=help660vip&label=Profile%20views&color=0e75b6&style=flat" alt="help660vip" />
-</p>
+我主要使用 JavaScript、TypeScript 和 Python，关注 Web 应用、自动化工具、Bot 生态，以及 Linux 服务器与网络。比起做展示型 Demo，我更喜欢把一个想法真正做成能部署、能长期运行的项目。
 
----
+目前正在完善 [XChat](https://github.com/help660vip/XChat)，一款轻量、可自行部署的 Web 即时通讯应用。
 
-### 👨‍💻 关于我
+## 项目
 
-不算是技术大牛，就是平时喜欢鼓捣各种东西。不管是写几行代码、调教服务器，还是给手机刷个机，只要能跑起来就觉得挺有意思。
+| 项目                                                                     | 简介                                                                    | 技术                               |
+| ------------------------------------------------------------------------ | ----------------------------------------------------------------------- | ---------------------------------- |
+| [XChat](https://github.com/help660vip/XChat)                             | 支持私聊、群组、频道、文件共享、实时同步与 Bot 扩展的自托管即时通讯应用 | Node.js、React、TypeScript、SQLite |
+| [signature-wall](https://github.com/help660vip/signature-wall)           | 支持邀请码、手写或上传签名，以及自动生成 A4 PDF 的多人签名收集系统      | TypeScript、Node.js、SQLite        |
+| [Yunzai-video-plugin](https://github.com/help660vip/Yunzai-video-plugin) | 面向 Miao-Yunzai 与 TRSS-Yunzai 的多平台链接解析插件                    | JavaScript、Yunzai                 |
+| [auto-add-ipv6](https://github.com/help660vip/auto-add-ipv6)             | 为 Linux 服务器批量生成、添加和清理同网段 IPv6 地址                     | Python、Linux                      |
+| [setup-wireguard](https://github.com/help660vip/setup-wireguard)         | 自动部署 WireGuard 并生成服务端与多客户端配置                           | Shell、WireGuard                   |
 
-* **⌨️ 代码日常**：平时写点 `Python` 和 `Node.js` 搞搞自动化脚本，最近在折腾各种机器人插件
-* **🌐 重度 VPS 玩家**：常年穿梭于各种服务器和网络路由之间，日常维护着Komari 的监控，看着满屏绿灯就很安心。
-* **🎮 闲暇时刻**：代码写累了就在 Minecraft 里撒泼，或者背上书包出去旅游。
+## 常用技术
 
----
+```text
+JavaScript / TypeScript / Node.js / React / Fastify
+Python / SQLite / Linux / Debian / Nginx / Git
+```
 
-### 🛠️ 常用工具
+## 其他
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,nodejs,linux,debian,git" />
-  </a>
-</p>
+- 喜欢研究服务器、网络和各种自托管服务
+- 偶尔写 Yunzai Bot 插件和自动化脚本
+- 不写代码的时候，会玩 Minecraft 或出去旅行
+- 个人主页：[my.090716.xyz](https://my.090716.xyz)
 
----
-
-### 📊 GitHub 统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=help660vip&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="GitHub Stats" />
-</p>
+如果你在使用我的项目时遇到问题，欢迎前往对应仓库提交 Issue。
