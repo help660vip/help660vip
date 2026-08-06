@@ -28,6 +28,5 @@ Python / SQLite / Linux / Debian / Nginx / Git
 - 喜欢研究服务器、网络和各种自托管服务
 - 偶尔写 Yunzai Bot 插件和自动化脚本
 - 不写代码的时候，会玩 Minecraft 或出去旅行
-- 个人主页：[my.090716.xyz](https://my.090716.xyz)
 
 如果你在使用我的项目时遇到问题，欢迎前往对应仓库提交 Issue。
